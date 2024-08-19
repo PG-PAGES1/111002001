@@ -1,0 +1,314 @@
+
+s_wild_3x3_zh.png
+size: 1963,1905
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3x3_body
+  rotate: true
+  xy: 1089, 456
+  size: 676, 518
+  orig: 780, 519
+  offset: 52, 1
+  index: -1
+3x3_forearm
+  rotate: true
+  xy: 1609, 447
+  size: 685, 352
+  orig: 773, 375
+  offset: 48, 9
+  index: -1
+3x3_gifts
+  rotate: true
+  xy: 1089, 1134
+  size: 769, 554
+  orig: 792, 579
+  offset: 21, 11
+  index: -1
+bg
+  rotate: false
+  xy: 455, 741
+  size: 141, 152
+  orig: 141, 152
+  offset: 0, 0
+  index: -1
+eyelid_L_02
+  rotate: true
+  xy: 1852, 1445
+  size: 51, 43
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+eyelid_L_03
+  rotate: true
+  xy: 1852, 1392
+  size: 51, 41
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+eyelid_R_02
+  rotate: true
+  xy: 1645, 1140
+  size: 28, 32
+  orig: 39, 34
+  offset: 9, 0
+  index: -1
+eyelid_R_03
+  rotate: true
+  xy: 1679, 1140
+  size: 28, 32
+  orig: 39, 34
+  offset: 9, 0
+  index: -1
+frame3x3
+  rotate: true
+  xy: 2, 895
+  size: 1008, 1085
+  orig: 1008, 1085
+  offset: 0, 0
+  index: -1
+fs_wild_frame/wild_glow_particle_00
+  rotate: true
+  xy: 988, 184
+  size: 133, 135
+  orig: 134, 139
+  offset: 1, 4
+  index: -1
+fs_wild_frame/wild_glow_particle_01
+  rotate: false
+  xy: 1125, 182
+  size: 133, 135
+  orig: 134, 139
+  offset: 1, 4
+  index: -1
+fs_wild_frame/wild_glow_particle_02
+  rotate: false
+  xy: 988, 47
+  size: 133, 135
+  orig: 134, 139
+  offset: 1, 4
+  index: -1
+fs_wild_frame/wild_glow_particle_03
+  rotate: true
+  xy: 1123, 47
+  size: 133, 135
+  orig: 134, 139
+  offset: 1, 4
+  index: -1
+fs_wild_frame/wild_glow_particle_04
+  rotate: true
+  xy: 687, 47
+  size: 133, 135
+  orig: 134, 139
+  offset: 1, 4
+  index: -1
+fs_wild_frame/wild_glow_particle_05
+  rotate: false
+  xy: 824, 45
+  size: 133, 135
+  orig: 134, 139
+  offset: 1, 4
+  index: -1
+fs_wild_frame/wild_glow_particle_06
+  rotate: true
+  xy: 1260, 19
+  size: 133, 135
+  orig: 134, 139
+  offset: 1, 4
+  index: -1
+fs_wild_frame/wild_glow_particle_07
+  rotate: true
+  xy: 1397, 19
+  size: 133, 135
+  orig: 134, 139
+  offset: 1, 4
+  index: -1
+fs_wild_frame/wild_glow_particle_08
+  rotate: true
+  xy: 304, 2
+  size: 133, 135
+  orig: 134, 139
+  offset: 1, 4
+  index: -1
+fs_wild_frame/wild_glow_particle_09
+  rotate: true
+  xy: 441, 2
+  size: 133, 135
+  orig: 134, 139
+  offset: 1, 4
+  index: -1
+fs_wild_frame/wild_glow_particle_10
+  rotate: true
+  xy: 1534, 10
+  size: 133, 135
+  orig: 134, 139
+  offset: 1, 4
+  index: -1
+fs_wild_frame/wild_glow_particle_11
+  rotate: true
+  xy: 1671, 10
+  size: 133, 135
+  orig: 134, 139
+  offset: 1, 4
+  index: -1
+fs_wild_frame/wild_glow_particle_12
+  rotate: true
+  xy: 1808, 10
+  size: 133, 135
+  orig: 134, 139
+  offset: 1, 4
+  index: -1
+fs_wild_frame/wild_glow_particle_13
+  rotate: true
+  xy: 900, 760
+  size: 133, 135
+  orig: 134, 139
+  offset: 1, 4
+  index: -1
+fx_wild_zh
+  rotate: true
+  xy: 1645, 1170
+  size: 326, 205
+  orig: 411, 259
+  offset: 45, 28
+  index: -1
+santa_head
+  rotate: true
+  xy: 2, 482
+  size: 411, 451
+  orig: 418, 451
+  offset: 0, 0
+  index: -1
+wild_particle_0000
+  rotate: true
+  xy: 455, 439
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0002
+  rotate: true
+  xy: 2, 180
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0004
+  rotate: true
+  xy: 139, 180
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0006
+  rotate: true
+  xy: 276, 180
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0008
+  rotate: true
+  xy: 592, 439
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0010
+  rotate: false
+  xy: 598, 758
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0012
+  rotate: true
+  xy: 729, 456
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0014
+  rotate: true
+  xy: 866, 456
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0016
+  rotate: false
+  xy: 729, 319
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0018
+  rotate: true
+  xy: 413, 137
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0020
+  rotate: false
+  xy: 2, 43
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0022
+  rotate: false
+  xy: 687, 182
+  size: 299, 135
+  orig: 300, 135
+  offset: 1, 0
+  index: -1
+wild_particle_0024
+  rotate: true
+  xy: 550, 137
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0026
+  rotate: false
+  xy: 1031, 319
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0028
+  rotate: true
+  xy: 1333, 154
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0030
+  rotate: true
+  xy: 1470, 154
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0032
+  rotate: true
+  xy: 1607, 145
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_particle_0034
+  rotate: true
+  xy: 1744, 145
+  size: 300, 135
+  orig: 300, 135
+  offset: 0, 0
+  index: -1
+wild_zh
+  rotate: true
+  xy: 1645, 1498
+  size: 405, 255
+  orig: 411, 259
+  offset: 4, 2
+  index: -1

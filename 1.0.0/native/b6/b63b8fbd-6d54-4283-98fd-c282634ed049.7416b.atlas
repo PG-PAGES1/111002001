@@ -1,0 +1,132 @@
+
+s_freespin.png
+size: 493,463
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gl_glass
+  rotate: false
+  xy: 272, 261
+  size: 219, 200
+  orig: 219, 200
+  offset: 0, 0
+  index: -1
+gl_globe_glow
+  rotate: false
+  xy: 2, 192
+  size: 255, 269
+  orig: 255, 272
+  offset: 0, 3
+  index: -1
+gl_leaf
+  rotate: false
+  xy: 417, 50
+  size: 73, 73
+  orig: 87, 85
+  offset: 10, 10
+  index: -1
+gl_leaf_L
+  rotate: false
+  xy: 429, 215
+  size: 56, 44
+  orig: 81, 64
+  offset: 11, 7
+  index: -1
+gl_leaf_R
+  rotate: false
+  xy: 429, 125
+  size: 53, 44
+  orig: 71, 58
+  offset: 12, 4
+  index: -1
+gl_platform
+  rotate: true
+  xy: 2, 2
+  size: 188, 97
+  orig: 188, 98
+  offset: 0, 0
+  index: -1
+gl_rib2_L
+  rotate: false
+  xy: 411, 26
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+gl_rib2_R
+  rotate: true
+  xy: 387, 14
+  size: 53, 22
+  orig: 53, 22
+  offset: 0, 0
+  index: -1
+gl_rib_L
+  rotate: true
+  xy: 387, 145
+  size: 54, 40
+  orig: 54, 40
+  offset: 0, 0
+  index: -1
+gl_rib_R
+  rotate: false
+  xy: 429, 171
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+gl_rib_cen
+  rotate: false
+  xy: 387, 69
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+gl_ribb_L
+  rotate: false
+  xy: 387, 119
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+gl_ribb_R
+  rotate: false
+  xy: 387, 92
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+gl_ribt_L
+  rotate: false
+  xy: 259, 198
+  size: 58, 61
+  orig: 72, 81
+  offset: 6, 7
+  index: -1
+gl_ribt_R
+  rotate: false
+  xy: 319, 200
+  size: 52, 59
+  orig: 58, 75
+  offset: 4, 5
+  index: -1
+gl_santa
+  rotate: true
+  xy: 101, 16
+  size: 174, 169
+  orig: 174, 169
+  offset: 0, 0
+  index: -1
+gl_snow
+  rotate: true
+  xy: 272, 3
+  size: 193, 113
+  orig: 194, 113
+  offset: 1, 0
+  index: -1
+gl_snow2
+  rotate: true
+  xy: 373, 201
+  size: 58, 54
+  orig: 63, 57
+  offset: 3, 0
+  index: -1

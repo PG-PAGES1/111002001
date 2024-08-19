@@ -1,0 +1,405 @@
+
+s_gift.png
+size: 481,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_gn_star
+  rotate: false
+  xy: 301, 30
+  size: 23, 30
+  orig: 27, 36
+  offset: 2, 3
+  index: -1
+fx_sparks00
+  rotate: false
+  xy: 177, 200
+  size: 100, 97
+  orig: 110, 108
+  offset: 5, 6
+  index: -1
+fx_sparks01
+  rotate: false
+  xy: 383, 274
+  size: 93, 98
+  orig: 106, 106
+  offset: 5, 4
+  index: -1
+fx_sparks02
+  rotate: false
+  xy: 185, 299
+  size: 92, 66
+  orig: 106, 106
+  offset: 11, 17
+  index: -1
+gn_armd_L
+  rotate: false
+  xy: 342, 113
+  size: 35, 78
+  orig: 35, 78
+  offset: 0, 0
+  index: -1
+gn_armd_R
+  rotate: false
+  xy: 446, 507
+  size: 27, 77
+  orig: 27, 77
+  offset: 0, 0
+  index: -1
+gn_bell
+  rotate: false
+  xy: 153, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+gn_bicep_L
+  rotate: false
+  xy: 321, 62
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+gn_bicep_R
+  rotate: true
+  xy: 185, 8
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+gn_body
+  rotate: false
+  xy: 279, 193
+  size: 95, 77
+  orig: 95, 77
+  offset: 0, 0
+  index: -1
+gn_bodyd
+  rotate: false
+  xy: 170, 130
+  size: 95, 68
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gn_bodyd_filler
+  rotate: true
+  xy: 379, 123
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+gn_eye_L
+  rotate: false
+  xy: 443, 76
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+gn_eye_R
+  rotate: false
+  xy: 227, 2
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+gn_face
+  rotate: false
+  xy: 259, 64
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+gn_fore_L
+  rotate: true
+  xy: 267, 108
+  size: 30, 69
+  orig: 30, 69
+  offset: 0, 0
+  index: -1
+gn_fore_R
+  rotate: true
+  xy: 2, 2
+  size: 26, 72
+  orig: 26, 72
+  offset: 0, 0
+  index: -1
+gn_hand_L
+  rotate: true
+  xy: 446, 482
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+gn_hand_R
+  rotate: true
+  xy: 76, 2
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+gn_hat01
+  rotate: true
+  xy: 420, 211
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+gn_hat02
+  rotate: true
+  xy: 236, 35
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+gn_hat03
+  rotate: false
+  xy: 251, 2
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+gn_head
+  rotate: false
+  xy: 110, 210
+  size: 65, 99
+  orig: 65, 99
+  offset: 0, 0
+  index: -1
+gn_idle_ball
+  rotate: false
+  xy: 2, 349
+  size: 107, 118
+  orig: 111, 122
+  offset: 2, 2
+  index: -1
+gn_idle_ball_A
+  rotate: false
+  xy: 383, 374
+  size: 96, 103
+  orig: 111, 122
+  offset: 7, 7
+  index: -1
+gn_idle_ball_A2
+  rotate: true
+  xy: 258, 24
+  size: 38, 41
+  orig: 56, 61
+  offset: 9, 8
+  index: -1
+gn_idle_ball_J
+  rotate: false
+  xy: 111, 363
+  size: 72, 104
+  orig: 111, 122
+  offset: 19, 3
+  index: -1
+gn_idle_ball_J2
+  rotate: true
+  xy: 110, 4
+  size: 25, 41
+  orig: 56, 61
+  offset: 15, 7
+  index: -1
+gn_idle_ball_K
+  rotate: false
+  xy: 185, 367
+  size: 92, 104
+  orig: 111, 122
+  offset: 12, 4
+  index: -1
+gn_idle_ball_K2
+  rotate: false
+  xy: 443, 95
+  size: 36, 42
+  orig: 56, 61
+  offset: 12, 7
+  index: -1
+gn_idle_ball_Q
+  rotate: false
+  xy: 2, 30
+  size: 105, 103
+  orig: 111, 122
+  offset: 3, 4
+  index: -1
+gn_idle_ball_Q2
+  rotate: false
+  xy: 399, 33
+  size: 43, 41
+  orig: 56, 61
+  offset: 7, 7
+  index: -1
+gn_idle_ball_blur
+  rotate: false
+  xy: 151, 75
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+gn_idle_ball_cane
+  rotate: false
+  xy: 2, 242
+  size: 106, 105
+  orig: 111, 122
+  offset: 2, 3
+  index: -1
+gn_idle_ball_cane2
+  rotate: true
+  xy: 109, 31
+  size: 34, 38
+  orig: 56, 61
+  offset: 11, 8
+  index: -1
+gn_idle_ball_choco
+  rotate: false
+  xy: 230, 479
+  size: 106, 105
+  orig: 111, 122
+  offset: 2, 3
+  index: -1
+gn_idle_ball_choco2
+  rotate: true
+  xy: 192, 32
+  size: 41, 42
+  orig: 56, 61
+  offset: 7, 8
+  index: -1
+gn_idle_ball_deer
+  rotate: false
+  xy: 2, 135
+  size: 106, 105
+  orig: 111, 122
+  offset: 2, 3
+  index: -1
+gn_idle_ball_deer2
+  rotate: false
+  xy: 399, 76
+  size: 42, 45
+  orig: 56, 61
+  offset: 6, 6
+  index: -1
+gn_idle_ball_sock
+  rotate: false
+  xy: 338, 479
+  size: 106, 105
+  orig: 111, 122
+  offset: 2, 3
+  index: -1
+gn_idle_ball_sock2
+  rotate: true
+  xy: 149, 33
+  size: 32, 41
+  orig: 56, 61
+  offset: 13, 8
+  index: -1
+gn_idle_ballspin
+  rotate: true
+  xy: 279, 272
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+gn_idle_ballspin2
+  rotate: false
+  xy: 279, 374
+  size: 102, 103
+  orig: 138, 135
+  offset: 18, 16
+  index: -1
+gn_idle_ballspin2x
+  rotate: false
+  xy: 2, 469
+  size: 113, 115
+  orig: 138, 135
+  offset: 12, 10
+  index: -1
+gn_idle_ballspin_glow
+  rotate: false
+  xy: 206, 75
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+gn_idle_ballspin_txt
+  rotate: false
+  xy: 421, 139
+  size: 37, 70
+  orig: 39, 74
+  offset: 1, 2
+  index: -1
+gn_idle_ballspin_txtx
+  rotate: false
+  xy: 376, 195
+  size: 42, 75
+  orig: 42, 75
+  offset: 0, 0
+  index: -1
+gn_idle_ballspin_txtx2
+  rotate: false
+  xy: 117, 473
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+gn_idle_fing
+  rotate: false
+  xy: 268, 2
+  size: 15, 20
+  orig: 16, 20
+  offset: 1, 0
+  index: -1
+gn_idle_fing_b
+  rotate: true
+  xy: 151, 130
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+gn_idle_hat01
+  rotate: true
+  xy: 109, 67
+  size: 66, 40
+  orig: 70, 44
+  offset: 2, 2
+  index: -1
+gn_idle_hat02
+  rotate: false
+  xy: 444, 43
+  size: 23, 31
+  orig: 24, 33
+  offset: 0, 1
+  index: -1
+gn_idle_head
+  rotate: true
+  xy: 110, 139
+  size: 69, 58
+  orig: 73, 62
+  offset: 2, 2
+  index: -1
+gn_leg_L
+  rotate: false
+  xy: 111, 311
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+gn_leg_R
+  rotate: false
+  xy: 267, 140
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+gn_nose
+  rotate: true
+  xy: 421, 123
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+gn_respin_fing
+  rotate: false
+  xy: 351, 65
+  size: 46, 46
+  orig: 48, 47
+  offset: 1, 1
+  index: -1

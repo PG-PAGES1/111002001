@@ -1,0 +1,139 @@
+
+train_animation.png
+size: 810,700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Special_Light_Effect/f_glow_reel_a
+  rotate: true
+  xy: 2, 79
+  size: 273, 492
+  orig: 273, 492
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/reel_bg_b
+  rotate: false
+  xy: 2, 354
+  size: 680, 344
+  orig: 680, 344
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/scatter_reel_glow_a
+  rotate: false
+  xy: 684, 403
+  size: 124, 295
+  orig: 124, 295
+  offset: 0, 0
+  index: -1
+Train_01
+  rotate: true
+  xy: 457, 39
+  size: 38, 36
+  orig: 40, 38
+  offset: 2, 0
+  index: -1
+Train_02
+  rotate: false
+  xy: 599, 6
+  size: 112, 35
+  orig: 113, 38
+  offset: 1, 0
+  index: -1
+Train_04
+  rotate: false
+  xy: 713, 2
+  size: 40, 39
+  orig: 60, 46
+  offset: 13, 0
+  index: -1
+Train_10
+  rotate: false
+  xy: 730, 81
+  size: 16, 56
+  orig: 16, 56
+  offset: 0, 0
+  index: -1
+Train_12
+  rotate: false
+  xy: 350, 26
+  size: 105, 51
+  orig: 106, 52
+  offset: 1, 0
+  index: -1
+Train_14
+  rotate: false
+  xy: 599, 43
+  size: 129, 94
+  orig: 134, 96
+  offset: 3, 1
+  index: -1
+Train_15
+  rotate: true
+  xy: 684, 357
+  size: 44, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+Train_20
+  rotate: false
+  xy: 496, 34
+  size: 101, 318
+  orig: 107, 320
+  offset: 4, 2
+  index: -1
+Train_25
+  rotate: true
+  xy: 2, 2
+  size: 22, 95
+  orig: 23, 95
+  offset: 0, 0
+  index: -1
+Train_29
+  rotate: false
+  xy: 599, 139
+  size: 148, 213
+  orig: 149, 216
+  offset: 0, 2
+  index: -1
+Train_31
+  rotate: true
+  xy: 801, 378
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+Train_33
+  rotate: true
+  xy: 99, 3
+  size: 21, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Train_lien (1)
+  rotate: false
+  xy: 176, 27
+  size: 172, 50
+  orig: 175, 50
+  offset: 0, 0
+  index: -1
+Train_lien (2)
+  rotate: true
+  xy: 749, 230
+  size: 171, 50
+  orig: 171, 50
+  offset: 0, 0
+  index: -1
+Train_lien (3)
+  rotate: true
+  xy: 749, 57
+  size: 171, 50
+  orig: 171, 50
+  offset: 0, 0
+  index: -1
+Train_lien (4)
+  rotate: false
+  xy: 2, 26
+  size: 172, 51
+  orig: 174, 53
+  offset: 0, 0
+  index: -1

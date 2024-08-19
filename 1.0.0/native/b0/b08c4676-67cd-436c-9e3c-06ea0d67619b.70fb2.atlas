@@ -1,0 +1,118 @@
+
+lingdang.png
+size: 756,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_a_info
+  rotate: false
+  xy: 0, 106
+  size: 756, 165
+  orig: 756, 165
+  offset: 0, 0
+  index: -1
+ui_bellb_L
+  rotate: false
+  xy: 407, 54
+  size: 77, 50
+  orig: 77, 50
+  offset: 0, 0
+  index: -1
+ui_bellb_R
+  rotate: true
+  xy: 423, 5
+  size: 47, 77
+  orig: 47, 77
+  offset: 0, 0
+  index: -1
+ui_bellball_L
+  rotate: true
+  xy: 348, 0
+  size: 38, 73
+  orig: 39, 73
+  offset: 1, 0
+  index: -1
+ui_bellball_R
+  rotate: false
+  xy: 201, 2
+  size: 75, 30
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+ui_bellf_L
+  rotate: false
+  xy: 573, 25
+  size: 77, 79
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+ui_bellf_R
+  rotate: true
+  xy: 652, 24
+  size: 80, 76
+  orig: 81, 77
+  offset: 1, 1
+  index: -1
+ui_leaf_L
+  rotate: true
+  xy: 201, 34
+  size: 70, 130
+  orig: 72, 131
+  offset: 1, 1
+  index: -1
+ui_leaf_M
+  rotate: false
+  xy: 0, 8
+  size: 105, 96
+  orig: 107, 97
+  offset: 1, 1
+  index: -1
+ui_leaf_R
+  rotate: true
+  xy: 107, 0
+  size: 104, 92
+  orig: 106, 94
+  offset: 1, 2
+  index: -1
+ui_rib_m
+  rotate: false
+  xy: 329, 13
+  size: 17, 19
+  orig: 19, 21
+  offset: 1, 1
+  index: -1
+ui_rib_shadow
+  rotate: true
+  xy: 333, 40
+  size: 64, 72
+  orig: 67, 75
+  offset: 2, 1
+  index: -1
+ui_ribb_L
+  rotate: true
+  xy: 278, 8
+  size: 24, 49
+  orig: 25, 49
+  offset: 1, 0
+  index: -1
+ui_ribb_R
+  rotate: false
+  xy: 530, 59
+  size: 41, 45
+  orig: 42, 46
+  offset: 0, 1
+  index: -1
+ui_ribt_L
+  rotate: true
+  xy: 502, 6
+  size: 48, 41
+  orig: 49, 42
+  offset: 1, 0
+  index: -1
+ui_ribt_R
+  rotate: false
+  xy: 486, 56
+  size: 42, 48
+  orig: 42, 50
+  offset: 0, 1
+  index: -1

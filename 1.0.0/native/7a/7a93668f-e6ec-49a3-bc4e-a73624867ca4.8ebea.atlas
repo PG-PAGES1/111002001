@@ -1,0 +1,48 @@
+
+light.png
+size: 596,661
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Special_Light_Effect/flare_b_info
+  rotate: true
+  xy: 2, 3
+  size: 656, 265
+  orig: 656, 265
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/glow_a_spin
+  rotate: false
+  xy: 431, 151
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/glow_c_info
+  rotate: false
+  xy: 269, 297
+  size: 325, 362
+  orig: 325, 362
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/glow_d_info_total
+  rotate: true
+  xy: 269, 34
+  size: 261, 160
+  orig: 261, 160
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/ring_a_info
+  rotate: false
+  xy: 431, 37
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 431, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1

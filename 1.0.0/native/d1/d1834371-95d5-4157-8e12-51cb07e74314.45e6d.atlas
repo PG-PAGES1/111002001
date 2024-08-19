@@ -1,0 +1,55 @@
+
+h_cane.png
+size: 118,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cane_01
+  rotate: false
+  xy: 2, 2
+  size: 51, 119
+  orig: 51, 119
+  offset: 0, 0
+  index: -1
+cane_02
+  rotate: true
+  xy: 2, 123
+  size: 68, 109
+  orig: 68, 109
+  offset: 0, 0
+  index: -1
+cane_03
+  rotate: false
+  xy: 2, 193
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+cherries
+  rotate: true
+  xy: 90, 20
+  size: 28, 26
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+leaf_L
+  rotate: true
+  xy: 55, 81
+  size: 40, 41
+  orig: 43, 46
+  offset: 3, 5
+  index: -1
+leaf_M
+  rotate: true
+  xy: 55, 50
+  size: 29, 55
+  orig: 29, 56
+  offset: 0, 1
+  index: -1
+leaf_R
+  rotate: true
+  xy: 55, 3
+  size: 45, 33
+  orig: 48, 40
+  offset: 0, 7
+  index: -1

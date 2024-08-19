@@ -1,0 +1,55 @@
+
+h_sock.png
+size: 149,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_berry
+  rotate: false
+  xy: 2, 2
+  size: 44, 44
+  orig: 44, 45
+  offset: 0, 1
+  index: -1
+candy
+  rotate: true
+  xy: 118, 9
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+green_present
+  rotate: true
+  xy: 86, 8
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+leaf_l
+  rotate: true
+  xy: 112, 48
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+leaf_r
+  rotate: false
+  xy: 112, 97
+  size: 33, 57
+  orig: 33, 59
+  offset: 0, 2
+  index: -1
+sock_base
+  rotate: true
+  xy: 2, 48
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+yellow_present
+  rotate: true
+  xy: 48, 3
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1

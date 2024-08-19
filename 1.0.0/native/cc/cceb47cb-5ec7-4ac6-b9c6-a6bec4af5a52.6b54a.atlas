@@ -1,0 +1,41 @@
+
+beijingdxiao.png
+size: 718,421
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background_a
+  rotate: true
+  xy: 533, 227
+  size: 192, 183
+  orig: 216, 183
+  offset: 24, 0
+  index: -1
+background_c
+  rotate: false
+  xy: 2, 2
+  size: 529, 417
+  orig: 529, 417
+  offset: 0, 0
+  index: -1
+background_cart_a
+  rotate: false
+  xy: 533, 109
+  size: 109, 116
+  orig: 111, 116
+  offset: 1, 0
+  index: -1
+background_cart_b
+  rotate: false
+  xy: 533, 28
+  size: 77, 79
+  orig: 79, 79
+  offset: 1, 0
+  index: -1
+background_cart_c
+  rotate: false
+  xy: 644, 185
+  size: 37, 40
+  orig: 39, 43
+  offset: 1, 2
+  index: -1

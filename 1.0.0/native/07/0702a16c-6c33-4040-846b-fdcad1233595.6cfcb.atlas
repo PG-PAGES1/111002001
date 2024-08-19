@@ -1,0 +1,104 @@
+
+h_chocolate.png
+size: 264,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box_b
+  rotate: false
+  xy: 91, 68
+  size: 95, 72
+  orig: 95, 72
+  offset: 0, 0
+  index: -1
+box_cover
+  rotate: false
+  xy: 2, 36
+  size: 87, 104
+  orig: 87, 104
+  offset: 0, 0
+  index: -1
+box_f
+  rotate: false
+  xy: 91, 2
+  size: 102, 64
+  orig: 102, 64
+  offset: 0, 0
+  index: -1
+choc00
+  rotate: true
+  xy: 188, 69
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+choc00x
+  rotate: false
+  xy: 195, 26
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+choc01
+  rotate: false
+  xy: 228, 106
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+choc02
+  rotate: true
+  xy: 2, 2
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+choc04
+  rotate: false
+  xy: 40, 2
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+ribbon_L
+  rotate: true
+  xy: 226, 12
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+ribbon_R
+  rotate: true
+  xy: 195, 2
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+ribbon_m
+  rotate: false
+  xy: 75, 21
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+ribtail_L
+  rotate: false
+  xy: 231, 72
+  size: 20, 32
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+ribtail_R
+  rotate: true
+  xy: 224, 39
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+tag
+  rotate: false
+  xy: 188, 98
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1

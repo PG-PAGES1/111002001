@@ -1,0 +1,132 @@
+
+5win.png
+size: 1126,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Special_Light_Effect/glow_a_spin
+  rotate: false
+  xy: 152, 11
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/glow_b_5_kind
+  rotate: true
+  xy: 1020, 39
+  size: 238, 88
+  orig: 238, 88
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/ribbon_glow_a
+  rotate: false
+  xy: 298, 15
+  size: 292, 140
+  orig: 292, 140
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/ribbon_glow_b
+  rotate: true
+  xy: 1020, 279
+  size: 257, 104
+  orig: 257, 104
+  offset: 0, 0
+  index: -1
+Special_Light_Effect4
+  rotate: false
+  xy: 973, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Win_Frames/ribbon
+  rotate: true
+  xy: 2, 22
+  size: 514, 148
+  orig: 514, 148
+  offset: 0, 0
+  index: -1
+caidai (1)
+  rotate: false
+  xy: 694, 8
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+caidai (2)
+  rotate: true
+  xy: 592, 3
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+caidai (3)
+  rotate: false
+  xy: 656, 7
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+caidai (4)
+  rotate: false
+  xy: 628, 4
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+saoguang/shine_00
+  rotate: true
+  xy: 152, 157
+  size: 379, 122
+  orig: 379, 122
+  offset: 0, 0
+  index: -1
+saoguang/shine_01
+  rotate: true
+  xy: 276, 157
+  size: 379, 122
+  orig: 379, 122
+  offset: 0, 0
+  index: -1
+saoguang/shine_02
+  rotate: true
+  xy: 400, 157
+  size: 379, 122
+  orig: 379, 122
+  offset: 0, 0
+  index: -1
+saoguang/shine_03
+  rotate: true
+  xy: 524, 157
+  size: 379, 122
+  orig: 379, 122
+  offset: 0, 0
+  index: -1
+saoguang/shine_04
+  rotate: false
+  xy: 592, 33
+  size: 379, 122
+  orig: 379, 122
+  offset: 0, 0
+  index: -1
+saoguang/shine_05
+  rotate: true
+  xy: 648, 157
+  size: 379, 122
+  orig: 379, 122
+  offset: 0, 0
+  index: -1
+saoguang/shine_06
+  rotate: true
+  xy: 772, 157
+  size: 379, 122
+  orig: 379, 122
+  offset: 0, 0
+  index: -1
+saoguang/shine_07
+  rotate: true
+  xy: 896, 157
+  size: 379, 122
+  orig: 379, 122
+  offset: 0, 0
+  index: -1

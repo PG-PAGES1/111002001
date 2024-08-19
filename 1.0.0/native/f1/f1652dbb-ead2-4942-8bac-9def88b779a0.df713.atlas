@@ -1,0 +1,272 @@
+
+win.png
+size: 1340,577
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Special_Light_Effect/f_glow_a
+  rotate: false
+  xy: 2, 175
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/frame_a_highlight
+  rotate: false
+  xy: 165, 24
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/glow_a_spin
+  rotate: false
+  xy: 316, 29
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/ring_a
+  rotate: false
+  xy: 404, 362
+  size: 211, 213
+  orig: 211, 213
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/star_a
+  rotate: true
+  xy: 2, 6
+  size: 167, 161
+  orig: 167, 161
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/star_a_highlight
+  rotate: false
+  xy: 462, 57
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_00
+  rotate: false
+  xy: 732, 383
+  size: 113, 77
+  orig: 113, 113
+  offset: 0, 36
+  index: -1
+星星/star_particle_out_01
+  rotate: false
+  xy: 617, 370
+  size: 113, 90
+  orig: 113, 113
+  offset: 0, 23
+  index: -1
+星星/star_particle_out_02
+  rotate: true
+  xy: 1227, 117
+  size: 113, 101
+  orig: 113, 113
+  offset: 0, 12
+  index: -1
+星星/star_particle_out_03
+  rotate: true
+  xy: 1112, 2
+  size: 113, 112
+  orig: 113, 113
+  offset: 0, 1
+  index: -1
+星星/star_particle_out_04
+  rotate: false
+  xy: 404, 247
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_05
+  rotate: false
+  xy: 519, 247
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_06
+  rotate: true
+  xy: 1227, 232
+  size: 113, 108
+  orig: 113, 113
+  offset: 0, 5
+  index: -1
+星星/star_particle_out_07
+  rotate: true
+  xy: 1226, 2
+  size: 113, 112
+  orig: 113, 113
+  offset: 0, 1
+  index: -1
+星星/star_particle_out_08
+  rotate: false
+  xy: 617, 462
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_09
+  rotate: false
+  xy: 634, 255
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_10
+  rotate: false
+  xy: 732, 462
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_11
+  rotate: false
+  xy: 652, 140
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_12
+  rotate: false
+  xy: 749, 268
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_13
+  rotate: false
+  xy: 847, 462
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_14
+  rotate: false
+  xy: 652, 25
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_15
+  rotate: false
+  xy: 767, 153
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_16
+  rotate: false
+  xy: 767, 38
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_17
+  rotate: false
+  xy: 864, 347
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_18
+  rotate: false
+  xy: 962, 462
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_19
+  rotate: false
+  xy: 1077, 462
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_20
+  rotate: false
+  xy: 1192, 462
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_21
+  rotate: false
+  xy: 882, 232
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_22
+  rotate: false
+  xy: 979, 347
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_23
+  rotate: false
+  xy: 882, 117
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_24
+  rotate: false
+  xy: 882, 2
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_25
+  rotate: false
+  xy: 1094, 347
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_26
+  rotate: false
+  xy: 1209, 347
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_27
+  rotate: false
+  xy: 997, 232
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_28
+  rotate: false
+  xy: 1112, 232
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_29
+  rotate: false
+  xy: 997, 117
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_30
+  rotate: false
+  xy: 997, 2
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+星星/star_particle_out_31
+  rotate: false
+  xy: 1112, 117
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1

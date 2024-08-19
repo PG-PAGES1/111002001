@@ -1,0 +1,69 @@
+
+bigwin.png
+size: 1150,913
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Win_Frames/wreath_lvl1
+  rotate: false
+  xy: 2, 2
+  size: 411, 403
+  orig: 412, 405
+  offset: 0, 1
+  index: -1
+Win_Frames/wreath_lvl2
+  rotate: true
+  xy: 469, 460
+  size: 451, 425
+  orig: 453, 427
+  offset: 1, 1
+  index: -1
+Win_Frames/wreath_lvl3
+  rotate: false
+  xy: 2, 407
+  size: 465, 504
+  orig: 468, 505
+  offset: 1, 1
+  index: -1
+flare_a
+  rotate: false
+  xy: 834, 160
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+flare_a_bigwin
+  rotate: false
+  xy: 896, 407
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+flare_b_bigwin
+  rotate: false
+  xy: 582, 208
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+flare_c_bigwin
+  rotate: false
+  xy: 582, 18
+  size: 330, 140
+  orig: 330, 140
+  offset: 0, 0
+  index: -1
+flare_d_bigwin
+  rotate: false
+  xy: 896, 659
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+number_flare
+  rotate: true
+  xy: 415, 13
+  size: 392, 165
+  orig: 392, 165
+  offset: 0, 0
+  index: -1

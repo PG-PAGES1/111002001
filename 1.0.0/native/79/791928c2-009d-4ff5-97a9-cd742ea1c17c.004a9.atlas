@@ -1,0 +1,76 @@
+
+s_multiplier.png
+size: 483,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2x
+  rotate: true
+  xy: 2, 2
+  size: 134, 91
+  orig: 160, 109
+  offset: 13, 9
+  index: -1
+2x01
+  rotate: true
+  xy: 199, 142
+  size: 136, 97
+  orig: 160, 109
+  offset: 10, 6
+  index: -1
+2x02
+  rotate: true
+  xy: 101, 141
+  size: 137, 96
+  orig: 160, 109
+  offset: 13, 7
+  index: -1
+4x
+  rotate: true
+  xy: 295, 4
+  size: 136, 92
+  orig: 160, 109
+  offset: 13, 8
+  index: -1
+4x01
+  rotate: true
+  xy: 195, 3
+  size: 136, 98
+  orig: 160, 109
+  offset: 10, 5
+  index: -1
+4x02
+  rotate: true
+  xy: 2, 138
+  size: 140, 97
+  orig: 160, 109
+  offset: 11, 6
+  index: -1
+5x
+  rotate: true
+  xy: 389, 10
+  size: 131, 92
+  orig: 160, 109
+  offset: 14, 8
+  index: -1
+5x01
+  rotate: true
+  xy: 95, 3
+  size: 133, 98
+  orig: 160, 109
+  offset: 11, 5
+  index: -1
+5x02
+  rotate: true
+  xy: 298, 143
+  size: 135, 96
+  orig: 160, 109
+  offset: 13, 7
+  index: -1
+gl_sparkle
+  rotate: true
+  xy: 396, 220
+  size: 58, 81
+  orig: 60, 83
+  offset: 1, 1
+  index: -1

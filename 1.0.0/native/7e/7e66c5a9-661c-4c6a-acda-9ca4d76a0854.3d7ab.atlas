@@ -1,0 +1,699 @@
+
+big_wing grass.png
+size: 1352,930
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BigWin_Star
+  rotate: false
+  xy: 1106, 76
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/flare_a
+  rotate: false
+  xy: 676, 707
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/flare_b_bigwin
+  rotate: false
+  xy: 449, 703
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/glow_a_5_kind
+  rotate: false
+  xy: 899, 761
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/ray_a_free_spin
+  rotate: false
+  xy: 2, 80
+  size: 401, 401
+  orig: 401, 401
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/ray_b_free_spin
+  rotate: false
+  xy: 2, 483
+  size: 445, 445
+  orig: 445, 445
+  offset: 0, 0
+  index: -1
+Special_Light_Effect/ring_a
+  rotate: false
+  xy: 449, 488
+  size: 211, 213
+  orig: 211, 213
+  offset: 0, 0
+  index: -1
+Special_Partical
+  rotate: false
+  xy: 1068, 844
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+xingguang
+  rotate: false
+  xy: 1332, 911
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_00
+  rotate: false
+  xy: 2, 2
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_01
+  rotate: false
+  xy: 1154, 852
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_02
+  rotate: false
+  xy: 91, 2
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_03
+  rotate: false
+  xy: 1243, 852
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_04
+  rotate: false
+  xy: 180, 2
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_05
+  rotate: false
+  xy: 269, 2
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_06
+  rotate: false
+  xy: 1068, 766
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_07
+  rotate: false
+  xy: 1157, 774
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_08
+  rotate: false
+  xy: 1246, 774
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_09
+  rotate: false
+  xy: 899, 683
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_10
+  rotate: false
+  xy: 988, 683
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_11
+  rotate: true
+  xy: 1077, 677
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_12
+  rotate: true
+  xy: 405, 394
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_13
+  rotate: true
+  xy: 405, 305
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_14
+  rotate: true
+  xy: 405, 216
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_15
+  rotate: true
+  xy: 405, 127
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_16
+  rotate: false
+  xy: 483, 410
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_17
+  rotate: false
+  xy: 483, 332
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_18
+  rotate: false
+  xy: 572, 410
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_19
+  rotate: false
+  xy: 483, 254
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_20
+  rotate: false
+  xy: 572, 332
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_21
+  rotate: false
+  xy: 483, 176
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_22
+  rotate: false
+  xy: 572, 254
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_23
+  rotate: false
+  xy: 572, 176
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_24
+  rotate: false
+  xy: 483, 98
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_25
+  rotate: false
+  xy: 572, 98
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_26
+  rotate: true
+  xy: 405, 38
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_27
+  rotate: false
+  xy: 483, 20
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_28
+  rotate: false
+  xy: 572, 20
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_29
+  rotate: true
+  xy: 662, 614
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_30
+  rotate: true
+  xy: 662, 525
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_31
+  rotate: false
+  xy: 740, 629
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_32
+  rotate: false
+  xy: 740, 551
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_33
+  rotate: false
+  xy: 662, 447
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_34
+  rotate: false
+  xy: 661, 369
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_35
+  rotate: false
+  xy: 661, 291
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_36
+  rotate: false
+  xy: 661, 213
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_37
+  rotate: false
+  xy: 661, 135
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_38
+  rotate: false
+  xy: 661, 57
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_39
+  rotate: true
+  xy: 751, 462
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_40
+  rotate: false
+  xy: 1157, 696
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_41
+  rotate: false
+  xy: 1246, 696
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_42
+  rotate: false
+  xy: 1155, 618
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_43
+  rotate: false
+  xy: 1244, 618
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_44
+  rotate: false
+  xy: 829, 605
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_45
+  rotate: false
+  xy: 918, 605
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_46
+  rotate: false
+  xy: 829, 527
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_47
+  rotate: false
+  xy: 918, 527
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_48
+  rotate: false
+  xy: 829, 449
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_49
+  rotate: false
+  xy: 918, 449
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_50
+  rotate: true
+  xy: 751, 373
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_51
+  rotate: true
+  xy: 750, 284
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_52
+  rotate: true
+  xy: 750, 195
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_53
+  rotate: true
+  xy: 750, 106
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_54
+  rotate: false
+  xy: 829, 371
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_55
+  rotate: false
+  xy: 918, 371
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_56
+  rotate: false
+  xy: 828, 293
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_57
+  rotate: false
+  xy: 828, 215
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_58
+  rotate: false
+  xy: 917, 293
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_59
+  rotate: false
+  xy: 828, 137
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_60
+  rotate: false
+  xy: 917, 215
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_61
+  rotate: false
+  xy: 917, 137
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_62
+  rotate: false
+  xy: 750, 28
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_63
+  rotate: false
+  xy: 839, 59
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_64
+  rotate: false
+  xy: 928, 59
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_65
+  rotate: false
+  xy: 1007, 599
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_66
+  rotate: false
+  xy: 1007, 521
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_67
+  rotate: false
+  xy: 1007, 443
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_68
+  rotate: false
+  xy: 1007, 365
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_69
+  rotate: false
+  xy: 1006, 287
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_70
+  rotate: false
+  xy: 1006, 209
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_71
+  rotate: false
+  xy: 1096, 540
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_72
+  rotate: false
+  xy: 1096, 462
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_73
+  rotate: false
+  xy: 1185, 540
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_74
+  rotate: false
+  xy: 1096, 384
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_75
+  rotate: false
+  xy: 1185, 462
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_76
+  rotate: false
+  xy: 1185, 384
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_77
+  rotate: true
+  xy: 1274, 529
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_78
+  rotate: true
+  xy: 1274, 440
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_79
+  rotate: true
+  xy: 1274, 351
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_80
+  rotate: false
+  xy: 1096, 306
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_81
+  rotate: false
+  xy: 1185, 306
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_82
+  rotate: false
+  xy: 1095, 228
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_83
+  rotate: false
+  xy: 1184, 228
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_84
+  rotate: true
+  xy: 1274, 262
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_85
+  rotate: true
+  xy: 1273, 173
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_86
+  rotate: false
+  xy: 1095, 150
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_87
+  rotate: false
+  xy: 1184, 150
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_88
+  rotate: true
+  xy: 1017, 120
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+xuehua/base_snow_89
+  rotate: false
+  xy: 1017, 42
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1

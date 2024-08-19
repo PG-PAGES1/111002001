@@ -1,0 +1,293 @@
+
+s_santa_wild_en.png
+size: 961,840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1x1_body
+  rotate: true
+  xy: 894, 419
+  size: 102, 60
+  orig: 102, 60
+  offset: 0, 0
+  index: -1
+1x1_gifts
+  rotate: false
+  xy: 532, 78
+  size: 180, 63
+  orig: 227, 64
+  offset: 32, 1
+  index: -1
+2x2_fingers_L
+  rotate: true
+  xy: 841, 17
+  size: 122, 44
+  orig: 122, 44
+  offset: 0, 0
+  index: -1
+2x2_forearm_R
+  rotate: true
+  xy: 881, 565
+  size: 83, 20
+  orig: 122, 22
+  offset: 0, 0
+  index: -1
+2x2_gifts
+  rotate: false
+  xy: 277, 78
+  size: 253, 157
+  orig: 262, 166
+  offset: 9, 6
+  index: -1
+3x3_body
+  rotate: false
+  xy: 424, 386
+  size: 283, 216
+  orig: 325, 216
+  offset: 21, 0
+  index: -1
+3x3_forearm
+  rotate: false
+  xy: 277, 237
+  size: 294, 147
+  orig: 322, 156
+  offset: 11, 4
+  index: -1
+3x3_gifts
+  rotate: false
+  xy: 424, 604
+  size: 323, 234
+  orig: 330, 241
+  offset: 6, 1
+  index: -1
+bg
+  rotate: false
+  xy: 186, 33
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 709, 570
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+body_2x2
+  rotate: false
+  xy: 749, 558
+  size: 130, 90
+  orig: 150, 92
+  offset: 20, 0
+  index: -1
+eyelid_L_01
+  rotate: false
+  xy: 707, 247
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+eyelid_L_02
+  rotate: false
+  xy: 928, 247
+  size: 21, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+eyelid_L_03
+  rotate: false
+  xy: 730, 248
+  size: 22, 18
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+eyelid_R_01
+  rotate: false
+  xy: 186, 17
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+eyelid_R_02
+  rotate: false
+  xy: 186, 2
+  size: 12, 13
+  orig: 16, 14
+  offset: 4, 0
+  index: -1
+eyelid_R_03
+  rotate: false
+  xy: 200, 2
+  size: 12, 13
+  orig: 16, 14
+  offset: 4, 0
+  index: -1
+frame1x1
+  rotate: false
+  xy: 573, 237
+  size: 132, 147
+  orig: 132, 147
+  offset: 0, 0
+  index: -1
+frame2x2
+  rotate: false
+  xy: 2, 89
+  size: 273, 295
+  orig: 273, 295
+  offset: 0, 0
+  index: -1
+frame3x3
+  rotate: false
+  xy: 2, 386
+  size: 420, 452
+  orig: 420, 452
+  offset: 0, 0
+  index: -1
+fx_wild
+  rotate: false
+  xy: 2, 10
+  size: 182, 77
+  orig: 220, 92
+  offset: 20, 8
+  index: -1
+santa_head
+  rotate: false
+  xy: 749, 650
+  size: 171, 188
+  orig: 174, 188
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 532, 143
+  size: 220, 92
+  orig: 220, 92
+  offset: 0, 0
+  index: -1
+wild_particle_0000
+  rotate: false
+  xy: 709, 500
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0002
+  rotate: false
+  xy: 709, 442
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0004
+  rotate: false
+  xy: 709, 384
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0006
+  rotate: false
+  xy: 707, 326
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0008
+  rotate: false
+  xy: 707, 268
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0010
+  rotate: true
+  xy: 836, 431
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0012
+  rotate: true
+  xy: 754, 141
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0014
+  rotate: true
+  xy: 812, 141
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0016
+  rotate: false
+  xy: 714, 83
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0018
+  rotate: false
+  xy: 714, 25
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0020
+  rotate: false
+  xy: 834, 326
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0022
+  rotate: false
+  xy: 834, 268
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0024
+  rotate: true
+  xy: 870, 141
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0026
+  rotate: true
+  xy: 887, 14
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0028
+  rotate: false
+  xy: 247, 20
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0030
+  rotate: false
+  xy: 374, 20
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0032
+  rotate: false
+  xy: 501, 20
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+wild_particle_0034
+  rotate: true
+  xy: 903, 523
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
